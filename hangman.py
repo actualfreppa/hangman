@@ -30,7 +30,7 @@ while game_on:
             print(f'Invalid character or you have already tried {player_choice}. Choose a new character')
             #continue
         elif player_choice not in random_choice_word:
-            print(f"Sorry, {player_choice} is not correct.")
+            print(f"Sorry, {player_choice} is incorrect.")
             tried_characters.append(player_choice)
             trys += 1
         else:
