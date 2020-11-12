@@ -1,5 +1,4 @@
 
-
 from random import choice
 from string import ascii_lowercase
 
@@ -9,7 +8,6 @@ with open("words.txt", "r") as f:
     word_list = [word.strip().lower() for word in f.readlines()]
 
 
-#print(random_choice_word)
 
 print("Welcome to HangMan")
 name = input("Please enter your name: ")
@@ -18,7 +16,6 @@ game_on = True
 while game_on:
     random_choice_word = choice(word_list)
 
-    #char_list = [c for c in random_choice_word]
     dot_list = ["_" for _ in range(len(random_choice_word))]
     tried_characters = []
     trys = 0
@@ -43,8 +40,6 @@ while game_on:
                 dot_list.pop(i)
                 dot_list.insert(i, player_choice)  
             tried_characters.append(player_choice)
-            #print(" ".join([["_", player_choice][player_choice == c] for c in word_list+tried_characters]))
-            #dot_list = 
         if "".join(dot_list) == random_choice_word:
             print(f"You won! ", end="")
             break
