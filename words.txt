@@ -236,7 +236,6 @@ basketball
 bathroom
 battery
 battle
-be
 beach
 bean
 bear
@@ -787,8 +786,6 @@ diversity
 divide
 division
 divorce
-DNA
-do
 doctor
 document
 dog
@@ -1140,7 +1137,6 @@ garlic
 gas
 gate
 gather
-gay
 gaze
 gear
 gender
@@ -1168,7 +1164,6 @@ glance
 glass
 global
 glove
-go
 goal
 God
 gold
@@ -1249,7 +1244,6 @@ heritage
 hero
 herself
 hey
-hi
 hide
 high
 highlight
@@ -1299,15 +1293,12 @@ hunting
 hurt
 husband
 hypothesis
-I
 ice
 idea
 ideal
 identification
 identify
 identity
-ie
-if
 ignore
 ill
 illegal
@@ -1333,7 +1324,6 @@ impression
 impressive
 improve
 improvement
-in
 incentive
 incident
 include
@@ -1420,17 +1410,13 @@ Islamic
 island
 Israeli
 issue
-it
 Italian
 item
-its
 itself
 jacket
 jail
 Japanese
 jet
-Jew
-Jewish
 job
 join
 joint
@@ -1608,7 +1594,6 @@ matter
 may
 maybe
 mayor
-me
 meal
 mean
 meaning
@@ -1657,7 +1642,6 @@ mission
 mistake
 mix
 mixture
-mm-hmm
 mode
 model
 moderate
@@ -1688,9 +1672,6 @@ mouth
 move
 movement
 movie
-Mr
-Mrs
-Ms
 much
 multiple
 murder
@@ -1702,7 +1683,6 @@ musician
 Muslim
 must
 mutual
-my
 myself
 mystery
 myth
@@ -1743,7 +1723,6 @@ next
 nice
 night
 nine
-no
 nobody
 nod
 noise
@@ -1764,7 +1743,6 @@ notion
 novel
 now
 nowhere
-n't
 nuclear
 number
 numerous
@@ -1787,7 +1765,6 @@ occur
 ocean
 odd
 odds
-of
 off
 offense
 offensive
@@ -1796,13 +1773,10 @@ office
 officer
 official
 often
-oh
 oil
-ok
 okay
 old
 Olympic
-on
 once
 one
 ongoing
@@ -1823,7 +1797,6 @@ oppose
 opposite
 opposition
 option
-or
 orange
 order
 ordinary
@@ -1893,7 +1866,6 @@ pattern
 pause
 pay
 payment
-PC
 peace
 peak
 peer
@@ -1959,7 +1931,6 @@ pleasure
 plenty
 plot
 plus
-PM
 pocket
 poem
 poet
@@ -2445,8 +2416,6 @@ smoke
 smooth
 snap
 snow
-so
-so-called
 soccer
 social
 society
@@ -2672,7 +2641,6 @@ than
 thank
 thanks
 that
-the
 theater
 their
 them
@@ -2715,7 +2683,6 @@ tire
 tired
 tissue
 title
-to
 tobacco
 today
 toe
@@ -2781,7 +2748,6 @@ try
 tube
 tunnel
 turn
-TV
 twelve
 twenty
 twice
@@ -2814,12 +2780,10 @@ unlike
 unlikely
 until
 unusual
-up
 upon
 upper
 urban
 urge
-us
 use
 used
 useful
@@ -2870,7 +2834,6 @@ volume
 volunteer
 vote
 voter
-vs
 vulnerable
 wage
 wait
@@ -2889,7 +2852,6 @@ watch
 water
 wave
 way
-we
 weak
 wealth
 wealthy
